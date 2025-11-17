@@ -1,4 +1,4 @@
-package com.mobile;
+package com.bng.calculator;
 
 import org.openqa.selenium.By;
 import org.testng.Assert;
